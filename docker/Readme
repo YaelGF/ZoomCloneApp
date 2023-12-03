@@ -1,0 +1,9 @@
+# Instruciones para installar la version de node que deseemos
+
+Una vez se ejecute el contenedor se usan los siguientes comandos
+
+```bash
+source ~/.profile
+nvm ls-remote
+nvm install 20.10
+```
